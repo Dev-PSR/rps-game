@@ -90,17 +90,20 @@ img {
 @media (max-width: 545px) {
     .choiceContainer {
         flex-direction: column;
-        margin-top: 0;
-        
+        margin-top: 30px;
+    }
+    .choice {
+        height: 110px;
+        width: 110px;
     }
     img {
         height: 100px;
         width: 100px;
     }
     .scoreContainer {
-        padding-top: 5px;
+        padding-top: 40px;
     }
     .move {
-        margin-top: 20px;
+        margin-top: 40px;
     }
 }
