@@ -90,6 +90,7 @@ img {
 @media (max-width: 545px) {
     .choiceContainer {
         flex-direction: column;
+        margin-top: 0;
     }
     img {
         height: 100px;
