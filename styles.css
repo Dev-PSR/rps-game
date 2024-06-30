@@ -91,12 +91,16 @@ img {
     .choiceContainer {
         flex-direction: column;
         margin-top: 0;
+        
     }
     img {
         height: 100px;
         width: 100px;
     }
     .scoreContainer {
-        padding-top: 0;
+        padding-top: 5px;
+    }
+    .move {
+        margin-top: 20px;
     }
 }
