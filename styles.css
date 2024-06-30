@@ -96,4 +96,7 @@ img {
         height: 100px;
         width: 100px;
     }
+    .scoreContainer {
+        padding-top: 0;
+    }
 }
